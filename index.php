@@ -849,8 +849,6 @@ background: white;
 
 
 </div>
-
-  
 <footer>
     <div class="container py-4 pt-5" style="max-width: 1400px;">
         <div class="row">
@@ -861,13 +859,13 @@ background: white;
       
       
           
-     <p>City : {{CITY}}</p>
+     <p>City : Montrose</p>
       
           
-     <p>State : {{STATE}}    </p>
+     <p>State : Mi     </p>
       
           
-     <p>Zip : {{ZIPCODE}}</p>
+     <p>Zip : 81401</p>
       
 
     
@@ -890,8 +888,8 @@ background: white;
              
 
 <p><a class="  allShow" href="https://prestigeprotectivefilm.com/" rel="nofollow" target="_blank">More Info</a></p>
-<p><a class="  allShow" href="https://en.wikipedia.org/wiki/Montrose" rel="nofollow" target="_blank">More About {{CITY}},{{STATE}} </a></p>
-<p><a class="  allShow" href="https://prestigeprotectivefilm-13eacd.gitlab.io/"  target="_blank">Additional Information</a></p>
+<p><a class="  allShow" href="https://en.wikipedia.org/wiki/Montrose" rel="nofollow" target="_blank">More About Montrose  </a></p>
+<p><a class="  allShow" href="https://jewellerybymash.github.io/premiumautosolution/"  target="_blank">Additional Information</a></p>
 <p><a class="  allShow"  href="" rel="nofollow" target="_blank"></a></p>
   <p><a class="  allShow"  href=""  target="_blank"></a></p>
 </div>
@@ -965,6 +963,8 @@ About Us</a></p>
     
     
     </footer>
+  
+
   <!-- FontAwesome Icons (For social media icons) -->
   <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
